@@ -1,6 +1,6 @@
 import os
 
-output_dataset_path = r"C:\Users\mamat\Documents\Penelitian Vito\CigDet-YOLO"
+output_dataset_path = r"C:\Users\brenda\CigDet-YOLO"
 
 data_yaml = """\
 path: {output_path}
